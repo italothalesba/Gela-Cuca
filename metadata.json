@@ -1,0 +1,5 @@
+{
+  "name": "Gela Cuca Manager",
+  "description": "Sistema de gestão para venda de geladinhos, incluindo frente de caixa, controle financeiro e gestão de clientes. Migrado de planilhas para Web App moderno.",
+  "requestFramePermissions": []
+}
